@@ -23,6 +23,7 @@ Advanced:
 - `part10.ipynb`: Routing (logical & semantic routing)
 - `part11.ipynb`: Query Construction (query strucuting for metadata filters)
 - `part12_14.ipynb`: Indexing (chunking, multi-representation indexing, RAPTOR, ColBERT)
+- `part15_16.ipynb`: Retrieval (re-ranking, CRAG)
 
 ## Reference
 https://github.com/langchain-ai/rag-from-scratch
