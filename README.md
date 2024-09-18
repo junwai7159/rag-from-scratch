@@ -13,3 +13,6 @@ Advanced:
 - Generation
 
 ![alt text](/media/rag.png)
+
+## Reference
+https://github.com/langchain-ai/rag-from-scratch
